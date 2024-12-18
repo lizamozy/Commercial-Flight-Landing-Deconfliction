@@ -17,7 +17,7 @@
 
 ### **Motivation for Your Project**
 
-All three of us have to fly to get to school every semester, and because of this have experienced the lovely delays that occur at Reagan National Airport (DCA). We wanted to model the deconfliction of multiple airplanes taking off or landing around the same time in order to make our flight travels more efficient. By designing a schedule for these flights, we will be able to help airports and airplanes work efficiently.  
+Want to model the deconfliction of multiple airplanes taking off or landing around the same time in order to make our flight travels more efficient. By designing a schedule for these flights, we will be able to help airports and airplanes work efficiently.  
 
 As it stands, air traffic controllers still decide with their brains what plane gets to land. We want to simulate this to alleviate the pressures that lay on these poor workers’ shoulders.  
 
